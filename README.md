@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-zhangsir&label=Profile%20views&color=0e75b6&style=flat" alt="coder-zhangsir" /> </p>
 -->
 
-<p align="center"><img src="https://s2.loli.net/2024/08/05/yKB6RkuLfa1iInF.png" /></p>
+<p align="center"><img src="https://s2.loli.net/2024/08/06/m3VI1JvuNLQwKDy.png" /></p>
