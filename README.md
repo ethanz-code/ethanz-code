@@ -16,6 +16,49 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-zhangsir&label=Profile%20views&color=0e75b6&style=flat" alt="coder-zhangsir" /> </p>
--->
 
 <p align="center"><img src="https://s2.loli.net/2024/08/06/m3VI1JvuNLQwKDy.png" /></p>
+-->
+
+# Hi there! 👋 I'm Zhang Yongxin (Ethan Zhang)
+
+  ## 🚀 全栈Web开发者 | TypeScript爱好者 | 开源贡献者
+
+  ### 📊 GitHub统计
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethanz-code&show_icons=true&theme=radical)
+
+  ### 💫 关于我 & 🛠️ 技术栈
+
+  <table>
+  <tr style="padding: 4px;">
+  <td valign="top" width="50%">
+
+  **💫 关于我**
+  - 🎂 2006年生，山东人
+  - 💻 6年+开发经验
+  - 🌐 济宁若森软件开发中心创始人
+  - 🏆 蓝桥杯全国二等奖获得者（Web开发）
+  - ⭐ 开源项目创作者，获得70+GitHub星标
+
+  </td>
+  <td valign="top" width="50%">
+
+  **🛠️ 技术栈**
+  - **前端**: Vue 3 • React • TypeScript • Tailwind CSS • Vite
+  - **后端**: Node.js • Elysia.js • Prisma
+  - **运维**: Docker • GitHub Actions • Linux
+  - **数据库**: PostgreSQL • MySQL • Redis
+  - **其他**: Unity游戏开发
+
+  </td>
+  </tr>
+  </table>
+
+  ### 💼 商业合作
+  🔥 **招火热项目推广合伙人，可靠+量大可谈**
+
+  📱 **微信**: digitalNomad2006 | **电话**: +86 131-9876-3535
+
+
+  ---
+  *"我热爱探索技术的核心逻辑，享受在团队中分享知识。"*
