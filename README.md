@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-zhangsir&label=Profile%20views&color=0e75b6&style=flat" alt="coder-zhangsir" /> </p>
 
 <p align="center"><img src="https://s2.loli.net/2024/08/06/m3VI1JvuNLQwKDy.png" /></p>
--->
-
-# Hi there! 👋 I'm Zhang Yongxin (Ethan Zhang)
-
-  ## 🚀 全栈Web开发者 | TypeScript爱好者 | 开源贡献者
-
-  ### 📊 GitHub统计
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethanz-code&show_icons=true&theme=radical)
 
   ### 💫 关于我 & 🛠️ 技术栈
 
@@ -53,12 +45,28 @@ Here are some ideas to get you started:
   </td>
   </tr>
   </table>
+-->
 
-  ### 💼 商业合作
-  🔥 **招火热项目推广合伙人，可靠+量大可谈**
+# Hi there! 👋 I'm Zhang Yongxin (Ethan Zhang)
 
-  📱 **微信**: digitalNomad2006 | **电话**: +86 131-9876-3535
+<table>
+<tr style="padding: 4px;">
+<td valign="top" width="50%">
 
+🚀 全栈Web开发者 | TypeScript爱好者 | 开源贡献者
 
-  ---
-  *"我热爱探索技术的核心逻辑，享受在团队中分享知识。"*
+🔥 **招火热项目推广合伙人，可靠+量大可谈**
+
+📱 **微信**: digitalNomad2006 | **电话**: +86 131-9876-3535
+
+</td>
+<td valign="top" width="50%">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethanz-code&show_icons=true&theme=radical)
+
+</td>
+</tr>
+</table>
+
+---
+*"我热爱探索技术的核心逻辑，享受在团队中分享知识。"*
