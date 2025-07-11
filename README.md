@@ -49,24 +49,24 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Zhang Yongxin (Ethan Zhang)
 
-<table>
-<tr style="padding: 4px;">
-<td valign="top" width="50%">
-
-🚀 全栈Web开发者 | TypeScript爱好者 | 开源贡献者
-
-🔥 **招火热项目推广合伙人，可靠+量大可谈**
-
-📱 **微信**: digitalNomad2006 | **电话**: +86 131-9876-3535
-
-</td>
-<td valign="top" width="50%">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethanz-code&show_icons=true&theme=radical)
-
-</td>
-</tr>
-</table>
+<div style="width: 100%;">
+  <table style="display: inline-table; width: 49%; min-width: 300px; vertical-align: top;">
+    <tr>
+      <td style="padding: 10px;">
+        🚀 全栈Web开发者 | TypeScript爱好者 | 开源贡献者<br>
+        🔥 <strong>招火热项目推广合伙人，可靠+量大可谈</strong><br>
+        📱 <strong>微信</strong>: digitalNomad2006 | <strong>电话</strong>: +86 131-9876-3535
+      </td>
+    </tr>
+  </table>
+  <table style="display: inline-table; width: 49%; min-width: 300px; vertical-align: top;">
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ethanz-code&show_icons=true&theme=radical" alt="GitHub Stats">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 *"我热爱探索技术的核心逻辑，享受在团队中分享知识。"*
