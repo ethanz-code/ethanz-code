@@ -26,8 +26,7 @@ Here are some ideas to get you started:
   <td valign="top" width="50%">
 
   **💫 关于我**
-  - 🎂 2006年生，山东人
-  - 💻 6年+开发经验
+
   - 🌐 济宁若森软件开发中心创始人
   - 🏆 蓝桥杯全国二等奖获得者（Web开发）
   - ⭐ 开源项目创作者，获得70+GitHub星标
@@ -52,20 +51,20 @@ Here are some ideas to get you started:
 <div style="width: 100%;">
   <table style="display: inline-table; width: 49%; min-width: 300px; vertical-align: top;">
     <tr>
+      <td style="padding: 10px; vertical-align: top;">
+        2006年生，山东人<br>
+        7年开发经验，早期爱好游戏开发！<br>
+        🚀 全栈Web开发者 | TypeScript爱好者 | 开源贡献者
+      </td>
       <td style="padding: 10px;">
-        🚀 全栈Web开发者 | TypeScript爱好者 | 开源贡献者<br>
-        🔥 <strong>招火热项目推广合伙人，可靠+量大可谈</strong><br>
-        📱 <strong>微信</strong>: digitalNomad2006 | <strong>电话</strong>: +86 131-9876-3535
+        <b>技术栈：</b><br>
+        F: Vue 3 • React • TypeScript • Tailwind CSS • Vite<br>
+        B: Node.js • Elysia.js • Prisma<br>
+        O: Docker • GitHub Actions • Linux<br>
       </td>
     </tr>
   </table>
-  <table style="display: inline-table; width: 49%; min-width: 300px; vertical-align: top;">
-    <tr>
-      <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ethanz-code&show_icons=true&theme=radical" alt="GitHub Stats">
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=ethanz-code&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ---
