@@ -52,7 +52,9 @@ Here are some ideas to get you started:
   <table style="display: inline-table; width: 49%; min-width: 300px; vertical-align: top;">
     <tr>
       <td style="padding: 10px; vertical-align: top;">
+        <b>基础介绍：</b><br>
         2006年生，山东人<br>
+        我的简历：<a href="https://cdn.itcox.cn/baseInfo/resume.pdf" target="_blank">resume.pdf</a><br>
         7年开发经验，早期爱好游戏开发！<br>
         🚀 全栈Web开发者 | TypeScript爱好者 | 开源贡献者
       </td>
