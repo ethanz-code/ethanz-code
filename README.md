@@ -66,7 +66,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api?username=ethanz-code&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://readme-stats-ethanz.vercel.app/api?username=ethanz-code&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ---
